@@ -79,6 +79,12 @@ h3 {
   display: block;
 }
 
+.link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
 @media (max-width: 469px) {
   .container {
     flex-direction: column;
